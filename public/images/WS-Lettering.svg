@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 50" preserveAspectRatio="xMidYMid meet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400&amp;display=swap');
+        .wardo {
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 400;
+            fill: #D4AF37;
+            text-transform: uppercase;
+            text-anchor: middle;
+        }
+        .studio {
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 400;
+            fill: #D4AF37;
+            text-transform: uppercase;
+            text-anchor: middle;
+        }
+    </style>
+    <text x="60" y="25" font-size="24" class="wardo">Wardo</text>
+    <text x="60" y="45" font-size="14" class="studio" letter-spacing="2">Studio</text>
+</svg>
